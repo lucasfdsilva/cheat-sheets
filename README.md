@@ -1,4 +1,4 @@
-# Christian's "Cheat-Sheets"
+# Lucas' "Cheat-Sheets"
 
 Hi, there! 👋
 
